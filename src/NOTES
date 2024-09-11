@@ -1,0 +1,8 @@
+STEP-1 :TO implement routing first we need to install react-router-dom CMD: npm install react-router-dom
+Then we have to create route layout in the application
+
+STEP-2 :now we have perform the routing configuration in App.jsx  by importing createBrowserRouter 
+
+STEP-3 :now the browserRouter must be provided by router 
+
+For getting to know about ERRORS use import { useRouteError } from 'react-router-dom'

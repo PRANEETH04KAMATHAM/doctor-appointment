@@ -47,3 +47,8 @@
 :root{
   background-color: aquamarine;
 }
+
+.h2obj{
+  background-color: var(--dark-purple);  
+  /* for using our own colors use var() to mention the color_variable  */
+}

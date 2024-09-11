@@ -2,9 +2,8 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Rokkitt:ital,wght@0,100..900;1,100..900&family=Sevillana&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=Rokkitt:ital,wght@0,100..900;1,100..900&display=swap');
 
-/* if you want to apply different fonts just mention above like and within { font-family } */
+/* if you want to apply different fonts just mention above link and within { font-family } */
 
 *{
   padding: 0%;
